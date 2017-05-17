@@ -1,5 +1,17 @@
 body {font-family: Verdana, sans-serif;
     text-align: center;
     background-color: black;
-    color: white
+    color: white;
   }
+a:link {
+  color: aquamarine;
+  font-size: 16 px;
+}
+#recomend {
+  color: gray;
+  font-size: 21 px;
+}
+#CopyRight {
+  text-align: right;
+  color: gray;
+}
